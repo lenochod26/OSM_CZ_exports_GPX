@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-07-08T17:57:15Z" areas="2025-07-08T12:44:02Z"/>
+
+  <node id="1820676073" lat="50.1054752" lon="14.2670941">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="asi nekde vevnitr?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="ref" v="16099:214"/>
+  </node>
+  <node id="3880890775" lat="49.0122331" lon="14.0005341">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="potvrdit, rozporné údaje ČP"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="post_box:type" v="pillar"/>
+    <tag k="ref" v="38382:7"/>
+  </node>
+  <node id="3896256300" lat="49.1790476" lon="15.4503627">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="58857:60"/>
+    <tag k="source" v="CP:202412"/>
+  </node>
+  <node id="4425042396" lat="50.8842224" lon="14.2816922">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times:signed" v="no"/>
+    <tag k="fixme" v="ref + existing?"/>
+    <tag k="note" v="Není v databázi České Pošty. Existuje na místě?"/>
+  </node>
+  <node id="4710077266" lat="48.8329886" lon="14.2467421">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="38100:62"/>
+    <tag k="source" v="CP:202411"/>
+  </node>
+  <node id="5076883623" lat="50.4591571" lon="15.2352865">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey position"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="ref" v="50600:167"/>
+  </node>
+  <node id="5352839965" lat="49.0231992" lon="16.4961373">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="position"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="66490:21"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="5423299156" lat="49.6098505" lon="13.4570825">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="30096:20"/>
+  </node>
+  <node id="5454321332" lat="49.4846279" lon="13.4917165">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="33500:49"/>
+    <tag k="source" v="CP:202411"/>
+  </node>
+  <node id="5457800827" lat="49.9587328" lon="14.3203088">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="15399:3"/>
+  </node>
+  <node id="5462582588" lat="49.5067154" lon="18.2516243">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey position"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="74222:53"/>
+    <tag k="source" v="CP:202303"/>
+  </node>
+  <node id="5465424498" lat="49.8478569" lon="14.0848265">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="26756:2"/>
+  </node>
+  <node id="5584998844" lat="49.5278411" lon="13.8049174">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="26245:28"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="5650296578" lat="49.9198218" lon="18.2004672">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="70083:71"/>
+  </node>
+  <node id="6090942994" lat="49.9888713" lon="18.1164227">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey position"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="74902:73"/>
+  </node>
+  <node id="6096653672" lat="49.8723837" lon="18.0527723">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey position"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="74902:98"/>
+  </node>
+  <node id="6364696300" lat="49.2612680" lon="14.7234419">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu u obchodu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="39200:3"/>
+  </node>
+  <node id="7616833260" lat="50.0068000" lon="13.4275614">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="33145:3"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="7758641418" lat="49.5297984" lon="15.2192764">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="39600:67"/>
+    <tag k="source" v="CP:202411"/>
+  </node>
+  <node id="7847783451" lat="50.3800690" lon="13.9192161">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="position (u domu čp.22)"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="ref" v="44000:51"/>
+    <tag k="source" v="CP:202411"/>
+  </node>
+  <node id="8070880819" lat="48.9590925" lon="16.8961831">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="note" v="25.1.2024 -&gt; Schránka se dle StreetView nachází v Brumovice 155 (Obecní úřad) a ne 26. V databázy ČP mají chybně?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="69300:50"/>
+  </node>
+  <node id="8393433898" lat="50.1040365" lon="15.5324659">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="53500:61"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="8429703907" lat="50.0780803" lon="16.2434972">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="note" v="Schránka změnila adresu na: 51745, Chleny 81 + pošta Chleny?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="51709:84"/>
+  </node>
+  <node id="8452117083" lat="49.3297719" lon="17.1973405">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="79600:87"/>
+    <tag k="source" v="CP:202412"/>
+  </node>
+  <node id="8516083257" lat="50.0747594" lon="15.4277227">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="53500:60"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="8552702782" lat="48.9968256" lon="16.8573571">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="69300:56"/>
+  </node>
+  <node id="8671585439" lat="50.1618600" lon="16.9469563">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="schránka je u radnice, nebo na zdi radnice"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="78800:107"/>
+  </node>
+  <node id="8743785172" lat="49.2750963" lon="17.3328599">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="note" v="Schránka změnila adresu na: 76812, Rataje 22 + pošta Rataje u Kroměříže?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="76700:116"/>
+  </node>
+  <node id="8747363324" lat="49.5470672" lon="17.5369937">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="postion"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="ref" v="75000:105"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="8751282222" lat="49.7835822" lon="17.7058303">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="74902:122"/>
+  </node>
+  <node id="8754227934" lat="49.9158911" lon="17.8692493">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="74902:104"/>
+  </node>
+  <node id="8770124369" lat="49.5592063" lon="18.8024984">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:30"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="73990:21"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="8790383025" lat="49.9261700" lon="15.2558296">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="resurvey; upřesnit polohu u kapličky; exists?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="28400:58"/>
+    <tag k="source" v="CP:202409"/>
+  </node>
+  <node id="8796486150" lat="49.7754847" lon="18.4540815">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="73600:49"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="9753274986" lat="49.8001492" lon="18.3476092">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="70083:12"/>
+  </node>
+  <node id="9753296070" lat="49.8461971" lon="18.5535667">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu uvnitř centra"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="operator:wikipedia" v="cs:Česká pošta"/>
+    <tag k="ref" v="73300:37"/>
+    <tag k="source" v="CP:202302"/>
+  </node>
+  <node id="9805690317" lat="48.8640239" lon="17.1427939">
+    <tag k="amenity" v="post_box"/>
+    <tag k="fixme" v="ref + existing?"/>
+    <tag k="note" v="Není v databázi České Pošty. Existuje na místě?"/>
+  </node>
+  <node id="10798719142" lat="49.6506365" lon="14.2859803">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu - v 202409 přesunuta od OÚ &quot;za Drážkov 36&quot;"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="26100:84"/>
+  </node>
+  <node id="11266569447" lat="49.5985528" lon="13.9881317">
+    <tag k="amenity" v="post_box"/>
+    <tag k="fixme" v="precise position + ref + existing?"/>
+    <tag k="note" v="Není v databázi České Pošty. Existuje na místě?"/>
+  </node>
+  <node id="11283907725" lat="49.9134880" lon="14.2263328">
+    <tag k="amenity" v="post_box"/>
+    <tag k="fixme" v="ref + existing?"/>
+    <tag k="note" v="Není v databázi České Pošty. Existuje na místě?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+  </node>
+  <node id="11307575673" lat="50.1957537" lon="13.9730570">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu u obecního úřadu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="27400:93"/>
+  </node>
+  <node id="11692109636" lat="49.4174454" lon="18.3126754">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="existuje? nová od 202311"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="75700:66"/>
+    <tag k="source" v="CP:202412"/>
+  </node>
+  <node id="11930661642" lat="49.3752773" lon="13.3001049">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="description" v="na autobusové zastávce"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="33900:24"/>
+    <tag k="start_date" v="2024-05"/>
+  </node>
+  <node id="12103149234" lat="49.3776885" lon="13.8300517">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu (na budově pošty)"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="38800:65"/>
+    <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="12154094717" lat="49.2596820" lon="15.3174372">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu u pošty"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="58857:17"/>
+    <tag k="source" v="CP:202409"/>
+  </node>
+  <node id="12178020347" lat="49.0284583" lon="16.8108010">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu u pošty"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="69300:49"/>
+  </node>
+  <node id="12225331521" lat="50.0001473" lon="15.3789754">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="upřesnit polohu"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="28400:32"/>
+    <tag k="source" v="CP:202410"/>
+  </node>
+  <node id="12563535947" lat="49.8703667" lon="18.4220735">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="correct position?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="73515:21"/>
+  </node>
+  <node id="12565865076" lat="49.7613559" lon="18.0187070">
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="correct position?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="70700:47"/>
+  </node>
+  <node id="12824063926" lat="49.9760354" lon="16.4080489">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="ref" v="56706:62"/>
+  </node>
+
+</osm>
