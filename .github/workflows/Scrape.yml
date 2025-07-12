@@ -14,8 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Get the data and analyze
       run: |
-        chmod +x ./all.sh
-        ./all.sh
+        chmod +x ./xml_download.sh
+        ./xml_download.sh
 #        chmod +x ./count.sh
 #        ./count.sh
       shell: bash
