@@ -10,7 +10,7 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-3      shell: bash
+#      shell: bash
 #    - name: Install gpsbabel
 #      run: sudo apt-get install gpsbabel
 #    - name: Convert to gpx
