@@ -11,5 +11,5 @@ wget -O postbox_fixme.xml 'https://overpass-api.de/api/interpreter?data=%5Bout%3
 
 #sleep 300
 
-echo "Transform xml to gpx"
-gpsbabel -i osm -f postbox_fixme.xml -o gpx -F postbox_fixme.gpx
+#echo "Transform xml to gpx"
+#gpsbabel -i osm -f postbox_fixme.xml -o gpx -F postbox_fixme.gpx
