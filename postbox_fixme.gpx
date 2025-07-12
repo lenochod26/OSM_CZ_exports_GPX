@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2025-07-12T09:12:46.455Z</time>
+  <bounds minlat="48.832988600" minlon="13.300104900" maxlat="50.884222400" maxlon="18.802498400"/>
+  <wpt lat="50.105475200" lon="14.267094100">
+    <name>osm-id 1820676073</name>
+    <cmt>osm-id 1820676073</cmt>
+    <desc>osm-id 1820676073</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.012233100" lon="14.000534100">
+    <name>osm-id 3880890775</name>
+    <cmt>osm-id 3880890775</cmt>
+    <desc>osm-id 3880890775</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.179047600" lon="15.450362700">
+    <name>osm-id 3896256300</name>
+    <cmt>osm-id 3896256300</cmt>
+    <desc>osm-id 3896256300</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.884222400" lon="14.281692200">
+    <name>osm-id 4425042396</name>
+    <cmt>osm-id 4425042396</cmt>
+    <desc>Není v databázi České Pošty. Existuje na místě?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="48.832988600" lon="14.246742100">
+    <name>osm-id 4710077266</name>
+    <cmt>osm-id 4710077266</cmt>
+    <desc>osm-id 4710077266</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.459157100" lon="15.235286500">
+    <name>osm-id 5076883623</name>
+    <cmt>osm-id 5076883623</cmt>
+    <desc>osm-id 5076883623</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.023199200" lon="16.496137300">
+    <name>osm-id 5352839965</name>
+    <cmt>osm-id 5352839965</cmt>
+    <desc>osm-id 5352839965</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.609850500" lon="13.457082500">
+    <name>osm-id 5423299156</name>
+    <cmt>osm-id 5423299156</cmt>
+    <desc>osm-id 5423299156</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.484627900" lon="13.491716500">
+    <name>osm-id 5454321332</name>
+    <cmt>osm-id 5454321332</cmt>
+    <desc>osm-id 5454321332</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.958732800" lon="14.320308800">
+    <name>osm-id 5457800827</name>
+    <cmt>osm-id 5457800827</cmt>
+    <desc>osm-id 5457800827</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.506715400" lon="18.251624300">
+    <name>osm-id 5462582588</name>
+    <cmt>osm-id 5462582588</cmt>
+    <desc>osm-id 5462582588</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.847856900" lon="14.084826500">
+    <name>osm-id 5465424498</name>
+    <cmt>osm-id 5465424498</cmt>
+    <desc>osm-id 5465424498</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.527841100" lon="13.804917400">
+    <name>osm-id 5584998844</name>
+    <cmt>osm-id 5584998844</cmt>
+    <desc>osm-id 5584998844</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.919821800" lon="18.200467200">
+    <name>osm-id 5650296578</name>
+    <cmt>osm-id 5650296578</cmt>
+    <desc>osm-id 5650296578</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.988871300" lon="18.116422700">
+    <name>osm-id 6090942994</name>
+    <cmt>osm-id 6090942994</cmt>
+    <desc>osm-id 6090942994</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.872383700" lon="18.052772300">
+    <name>osm-id 6096653672</name>
+    <cmt>osm-id 6096653672</cmt>
+    <desc>osm-id 6096653672</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.261268000" lon="14.723441900">
+    <name>osm-id 6364696300</name>
+    <cmt>osm-id 6364696300</cmt>
+    <desc>osm-id 6364696300</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.006800000" lon="13.427561400">
+    <name>osm-id 7616833260</name>
+    <cmt>osm-id 7616833260</cmt>
+    <desc>osm-id 7616833260</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.529798400" lon="15.219276400">
+    <name>osm-id 7758641418</name>
+    <cmt>osm-id 7758641418</cmt>
+    <desc>osm-id 7758641418</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.380069000" lon="13.919216100">
+    <name>osm-id 7847783451</name>
+    <cmt>osm-id 7847783451</cmt>
+    <desc>osm-id 7847783451</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="48.959092500" lon="16.896183100">
+    <name>osm-id 8070880819</name>
+    <cmt>osm-id 8070880819</cmt>
+    <desc>25.1.2024 -&gt; Schránka se dle StreetView nachází v Brumovice 155 (Obecní úřad) a ne 26. V databázy ČP mají chybně?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.104036500" lon="15.532465900">
+    <name>osm-id 8393433898</name>
+    <cmt>osm-id 8393433898</cmt>
+    <desc>osm-id 8393433898</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.078080300" lon="16.243497200">
+    <name>osm-id 8429703907</name>
+    <cmt>osm-id 8429703907</cmt>
+    <desc>Schránka změnila adresu na: 51745, Chleny 81 + pošta Chleny?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.329771900" lon="17.197340500">
+    <name>osm-id 8452117083</name>
+    <cmt>osm-id 8452117083</cmt>
+    <desc>osm-id 8452117083</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.074759400" lon="15.427722700">
+    <name>osm-id 8516083257</name>
+    <cmt>osm-id 8516083257</cmt>
+    <desc>osm-id 8516083257</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="48.996825600" lon="16.857357100">
+    <name>osm-id 8552702782</name>
+    <cmt>osm-id 8552702782</cmt>
+    <desc>osm-id 8552702782</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.161860000" lon="16.946956300">
+    <name>osm-id 8671585439</name>
+    <cmt>osm-id 8671585439</cmt>
+    <desc>osm-id 8671585439</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.275096300" lon="17.332859900">
+    <name>osm-id 8743785172</name>
+    <cmt>osm-id 8743785172</cmt>
+    <desc>Schránka změnila adresu na: 76812, Rataje 22 + pošta Rataje u Kroměříže?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.547067200" lon="17.536993700">
+    <name>osm-id 8747363324</name>
+    <cmt>osm-id 8747363324</cmt>
+    <desc>osm-id 8747363324</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.783582200" lon="17.705830300">
+    <name>osm-id 8751282222</name>
+    <cmt>osm-id 8751282222</cmt>
+    <desc>osm-id 8751282222</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.915891100" lon="17.869249300">
+    <name>osm-id 8754227934</name>
+    <cmt>osm-id 8754227934</cmt>
+    <desc>osm-id 8754227934</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.559206300" lon="18.802498400">
+    <name>osm-id 8770124369</name>
+    <cmt>osm-id 8770124369</cmt>
+    <desc>osm-id 8770124369</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.926170000" lon="15.255829600">
+    <name>osm-id 8790383025</name>
+    <cmt>osm-id 8790383025</cmt>
+    <desc>osm-id 8790383025</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.775484700" lon="18.454081500">
+    <name>osm-id 8796486150</name>
+    <cmt>osm-id 8796486150</cmt>
+    <desc>osm-id 8796486150</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.800149200" lon="18.347609200">
+    <name>osm-id 9753274986</name>
+    <cmt>osm-id 9753274986</cmt>
+    <desc>osm-id 9753274986</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.846197100" lon="18.553566700">
+    <name>osm-id 9753296070</name>
+    <cmt>osm-id 9753296070</cmt>
+    <desc>osm-id 9753296070</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="48.864023900" lon="17.142793900">
+    <name>osm-id 9805690317</name>
+    <cmt>osm-id 9805690317</cmt>
+    <desc>Není v databázi České Pošty. Existuje na místě?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.650636500" lon="14.285980300">
+    <name>osm-id 10798719142</name>
+    <cmt>osm-id 10798719142</cmt>
+    <desc>osm-id 10798719142</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.598552800" lon="13.988131700">
+    <name>osm-id 11266569447</name>
+    <cmt>osm-id 11266569447</cmt>
+    <desc>Není v databázi České Pošty. Existuje na místě?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.913488000" lon="14.226332800">
+    <name>osm-id 11283907725</name>
+    <cmt>osm-id 11283907725</cmt>
+    <desc>Není v databázi České Pošty. Existuje na místě?</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.195753700" lon="13.973057000">
+    <name>osm-id 11307575673</name>
+    <cmt>osm-id 11307575673</cmt>
+    <desc>osm-id 11307575673</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.417445400" lon="18.312675400">
+    <name>osm-id 11692109636</name>
+    <cmt>osm-id 11692109636</cmt>
+    <desc>osm-id 11692109636</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.375277300" lon="13.300104900">
+    <name>osm-id 11930661642</name>
+    <cmt>osm-id 11930661642</cmt>
+    <desc>osm-id 11930661642</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.377688500" lon="13.830051700">
+    <name>osm-id 12103149234</name>
+    <cmt>osm-id 12103149234</cmt>
+    <desc>osm-id 12103149234</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.259682000" lon="15.317437200">
+    <name>osm-id 12154094717</name>
+    <cmt>osm-id 12154094717</cmt>
+    <desc>osm-id 12154094717</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.028458300" lon="16.810801000">
+    <name>osm-id 12178020347</name>
+    <cmt>osm-id 12178020347</cmt>
+    <desc>osm-id 12178020347</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="50.000147300" lon="15.378975400">
+    <name>osm-id 12225331521</name>
+    <cmt>osm-id 12225331521</cmt>
+    <desc>osm-id 12225331521</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.870366700" lon="18.422073500">
+    <name>osm-id 12563535947</name>
+    <cmt>osm-id 12563535947</cmt>
+    <desc>osm-id 12563535947</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.761355900" lon="18.018707000">
+    <name>osm-id 12565865076</name>
+    <cmt>osm-id 12565865076</cmt>
+    <desc>osm-id 12565865076</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.976035400" lon="16.408048900">
+    <name>osm-id 12824063926</name>
+    <cmt>osm-id 12824063926</cmt>
+    <desc>osm-id 12824063926</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+</gpx>
