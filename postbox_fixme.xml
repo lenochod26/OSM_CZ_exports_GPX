@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-12T02:17:56Z" areas="2025-09-11T22:37:12Z"/>
+<meta osm_base="2025-09-13T02:12:33Z" areas="2025-09-12T23:33:05Z"/>
 
   <node id="1820676073" lat="50.1054752" lon="14.2670941">
     <tag k="amenity" v="post_box"/>
@@ -281,7 +281,7 @@
     <tag k="ref" v="28400:58"/>
     <tag k="source" v="CP:202409"/>
   </node>
-  <node id="8796486150" lat="49.7754847" lon="18.4540815">
+  <node id="8796486150" lat="49.7755326" lon="18.4539367">
     <tag k="amenity" v="post_box"/>
     <tag k="collection_times" v="Mo-Fr 08:00"/>
     <tag k="fixme" v="upřesnit polohu"/>
