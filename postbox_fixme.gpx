@@ -295,4 +295,10 @@
     <desc>osm-id 12565865076</desc>
     <sym>amenity:post_box</sym>
   </wpt>
+  <wpt lat="49.636606400" lon="17.363920800">
+    <name>osm-id 14183347172</name>
+    <cmt>osm-id 14183347172</cmt>
+    <desc>osm-id 14183347172</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
 </gpx>
