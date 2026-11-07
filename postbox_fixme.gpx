@@ -163,6 +163,18 @@
     <desc>osm-id 8552702782</desc>
     <sym>amenity:post_box</sym>
   </wpt>
+  <wpt lat="49.407751300" lon="16.221841300">
+    <name>osm-id 8638061183</name>
+    <cmt>osm-id 8638061183</cmt>
+    <desc>osm-id 8638061183</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
+  <wpt lat="49.440850700" lon="16.257958300">
+    <name>osm-id 8648883470</name>
+    <cmt>osm-id 8648883470</cmt>
+    <desc>osm-id 8648883470</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
   <wpt lat="50.161860000" lon="16.946956300">
     <name>osm-id 8671585439</name>
     <cmt>osm-id 8671585439</cmt>
