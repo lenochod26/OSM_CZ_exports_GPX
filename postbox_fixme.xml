@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-11T07:34:02Z" areas="2026-11-11T04:38:43Z"/>
+<meta osm_base="2026-11-12T08:01:06Z" areas="2026-11-12T03:16:50Z"/>
 
   <node id="1820676073" lat="50.1054752" lon="14.2670941">
     <tag k="amenity" v="post_box"/>
@@ -35,6 +35,15 @@
     <tag k="collection_times:signed" v="no"/>
     <tag k="fixme" v="ref + existing?"/>
     <tag k="note" v="Není v databázi České Pošty. Existuje na místě?"/>
+  </node>
+  <node id="4683781500" lat="49.1966774" lon="16.6168309">
+    <tag k="amenity" v="post_box"/>
+    <tag k="description" v="Poštovní schránka je na místě a je plně funkční."/>
+    <tag k="fixme" v="precise position?"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="phone" v="734876681"/>
+    <tag k="ref" v="60013:37"/>
   </node>
   <node id="4710077266" lat="48.8329886" lon="14.2467421">
     <tag k="amenity" v="post_box"/>

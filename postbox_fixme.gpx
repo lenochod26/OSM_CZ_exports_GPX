@@ -25,6 +25,12 @@
     <desc>Není v databázi České Pošty. Existuje na místě?</desc>
     <sym>amenity:post_box</sym>
   </wpt>
+  <wpt lat="49.196677400" lon="16.616830900">
+    <name>osm-id 4683781500</name>
+    <cmt>osm-id 4683781500</cmt>
+    <desc>osm-id 4683781500</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
   <wpt lat="48.832988600" lon="14.246742100">
     <name>osm-id 4710077266</name>
     <cmt>osm-id 4710077266</cmt>
