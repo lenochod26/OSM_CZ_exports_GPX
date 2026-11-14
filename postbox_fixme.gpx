@@ -121,6 +121,12 @@
     <desc>osm-id 7616833260</desc>
     <sym>amenity:post_box</sym>
   </wpt>
+  <wpt lat="49.636606400" lon="17.363920800">
+    <name>osm-id 7661498745</name>
+    <cmt>osm-id 7661498745</cmt>
+    <desc>osm-id 7661498745</desc>
+    <sym>amenity:post_box</sym>
+  </wpt>
   <wpt lat="49.529798400" lon="15.219276400">
     <name>osm-id 7758641418</name>
     <cmt>osm-id 7758641418</cmt>
@@ -311,12 +317,6 @@
     <name>osm-id 12565865076</name>
     <cmt>osm-id 12565865076</cmt>
     <desc>osm-id 12565865076</desc>
-    <sym>amenity:post_box</sym>
-  </wpt>
-  <wpt lat="49.636606400" lon="17.363920800">
-    <name>osm-id 14183347172</name>
-    <cmt>osm-id 14183347172</cmt>
-    <desc>osm-id 14183347172</desc>
     <sym>amenity:post_box</sym>
   </wpt>
 </gpx>

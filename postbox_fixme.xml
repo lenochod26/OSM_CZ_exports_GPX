@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-12T08:01:06Z" areas="2026-11-12T03:16:50Z"/>
+<meta osm_base="2026-11-14T07:26:19Z" areas="2026-11-14T03:13:09Z"/>
 
   <node id="1820676073" lat="50.1054752" lon="14.2670941">
     <tag k="amenity" v="post_box"/>
@@ -171,6 +171,22 @@
     <tag k="operator:wikidata" v="Q341090"/>
     <tag k="ref" v="33145:3"/>
     <tag k="source" v="CP:202408"/>
+  </node>
+  <node id="7661498745" lat="49.6366064" lon="17.3639208">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="post_box"/>
+    <tag k="collection_times" v="Mo-Fr 08:00"/>
+    <tag k="colour" v="orange;gray"/>
+    <tag k="covered" v="no"/>
+    <tag k="fixme" v="Please merge me into a nearby wall"/>
+    <tag k="indoor" v="no"/>
+    <tag k="material" v="metal"/>
+    <tag k="operator" v="Česká pošta, s.p."/>
+    <tag k="operator:wikidata" v="Q341090"/>
+    <tag k="post_box:type" v="wall"/>
+    <tag k="ref" v="77070:94"/>
+    <tag k="support" v="wall_mounted"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7758641418" lat="49.5297984" lon="15.2192764">
     <tag k="amenity" v="post_box"/>
@@ -445,17 +461,6 @@
     <tag k="operator" v="Česká pošta, s.p."/>
     <tag k="operator:wikidata" v="Q341090"/>
     <tag k="ref" v="70700:47"/>
-  </node>
-  <node id="14183347172" lat="49.6366064" lon="17.3639208">
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="post_box"/>
-    <tag k="colour" v="orange;gray"/>
-    <tag k="covered" v="no"/>
-    <tag k="fixme" v="Please merge me into a nearby wall"/>
-    <tag k="indoor" v="no"/>
-    <tag k="material" v="metal"/>
-    <tag k="support" v="wall_mounted"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
